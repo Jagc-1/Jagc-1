@@ -4,7 +4,7 @@ I'm Johan Campos, a self-taught programmer from Colombia passionate about contin
 
 ### About Me
 
-- 🌱 I'm currently expanding my skills in backend web development using Node.js and Express.
+- 🌱 I'm expanding my skills so that in the future I can become a full stack developer.
 - 💼 Open to collaborating on projects related to data analysis and machine learning.
   
 
@@ -34,8 +34,3 @@ I'm Johan Campos, a self-taught programmer from Colombia passionate about contin
   <img src="https://github-readme-stats.vercel.app/api?username=jagc-1&hide_title=false&hide_rank=false&show_icons=true&card_width=320&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagc-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-Thanks for visiting my profile!
-
-
