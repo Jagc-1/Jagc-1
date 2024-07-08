@@ -1,7 +1,20 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<p> My name is Johan Campos. From <b> Colombia</b>. </p>
+<h1 align="center">Hi 👋, I'm Johan Campos</h1>
 
+## Welcome to my GitHub profile!
 
+I'm Johan Campos, a self-taught programmer from Colombia passionate about continuous learning and acquiring new knowledge and skills every day.
+
+### About Me
+
+- 🌱 I'm currently expanding my skills in backend web development using Node.js and Express.
+- 💼 Open to collaborating on projects related to data analysis and machine learning.
+  
+
+### Interests
+  -  I am passionate about music in all its forms and genres, from jazz to electronic music.
+  - I enjoy exploring new artists and albums, and I am always looking to discover new melodies and rhythms.
+  - I enjoy learning new programming languages and exploring different web frameworks and technologies.
+  - I am particularly interested in web development and building scalable and efficient software architectures.
 ###
 
 ## I code with
@@ -20,18 +33,17 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagc-1&hide_title=false&hide_rank=false&show_icons=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-
 ###
-  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagc-1&hide_title=false&hide_rank=false&show_icons=true&card_width=320&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagc-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+Thanks for visiting my profile!
 
 
