@@ -1,5 +1,5 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<p> My name is Johan Campos  from <img src="![imagen](https://github.com/Jagc-1/Jagc-1/assets/105075095/bd6d0f74-7605-46f1-8d8d-6547f5336197)" width="17" /> <b> Colombia</b>. </p>
+<p> My name is Johan Campos. From <b> Colombia</b>. </p>
 
 
 ###
