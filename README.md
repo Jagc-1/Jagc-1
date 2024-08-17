@@ -35,4 +35,4 @@ I'm Johan Campos, a self-taught programmer from Colombia passionate about contin
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagc-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Jagc-1/Jagc-1/blob/output/github-contribution-grid-snake.svg)
