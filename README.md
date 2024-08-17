@@ -1,15 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<h1 align="center">Hi 👋, I'm Johan Campos</h1>
 
+I'm Johan Campos, a self-taught programmer from Colombia passionate about continuous learning and acquiring new knowledge and skills every day.
 
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=%F0%9F%91%8BHi!!+I%C2%B4m+Johan+Campos...;A+self-taught+programmer+from+Colombia;Passionate+about+continuous+learning;Always+acquiring+new+knowledge;and+skills+every+day." alt="Typing SVG" />
-  </a>
-</div>
-
-
-### About Me.
+### About Me
 
 - 🌱 I'm expanding my skills so that in the future I can become a full stack developer.
 - 💼 Open to collaborating on projects related to data analysis and machine learning.
@@ -49,10 +42,3 @@
     <img src="grid-snake.svg" alt="snake">
   </a>
 </div>
-
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
-
-
