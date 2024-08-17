@@ -37,4 +37,9 @@ I'm Johan Campos, a self-taught programmer from Colombia passionate about contin
 
 
 
-![snake gif](https://github.com/Jagc-1/Jagc-1/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://github.com/Jagc-1">
+    <img src="grid-snake.svg" alt="snake">
+  </a>
+</div>
+
