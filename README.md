@@ -37,6 +37,6 @@ I'm Johan Campos, a self-taught programmer from Colombia passionate about contin
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jagc-1/jagc-1/output/snake.svg" alt="Snake animation" />
 
 ###
