@@ -35,8 +35,8 @@ I'm Johan Campos, a self-taught programmer from Colombia passionate about contin
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagc-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jagc-1/jagc-1/output/snake.svg" alt="Snake animation" />
-
-###
+<picture style="jutify">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake.svg">
+</picture>  
+<br><br>
