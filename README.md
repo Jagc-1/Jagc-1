@@ -29,6 +29,7 @@
 
 
 <div align="center">
+      <h2>🐍 My Contributions 🐍</h2>
   <a href="https://github.com/Jagc-1">
     <img src="grid-snake.svg" alt="snake">
   </a>
